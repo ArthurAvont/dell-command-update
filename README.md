@@ -1,4 +1,4 @@
-# dell-command-update
+# dell command update
 
 is a utility designed for Dell commercial client computers that automatically updates drivers, BIOS, and firmware
 
